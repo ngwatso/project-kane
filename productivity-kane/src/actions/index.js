@@ -1,0 +1,3 @@
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
+export const ADD_NEW_ASSOCIATE = 'ADD_NEW_ASSOCIATE';
+export const FETCH_ERROR = 'FETCH_ERRROR';
