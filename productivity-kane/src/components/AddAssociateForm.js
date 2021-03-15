@@ -7,6 +7,6 @@ const initialState = {
 	shift: '',
 };
 
-const AddAssociate = () => {};
+const AddAssociateForm = () => {};
 
-export default AddAssociate;
+export default AddAssociateForm;
