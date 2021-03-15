@@ -2,8 +2,11 @@ import React from 'react';
 
 const initialState = {
 	name: '',
-	type: '',
+	fullTime: true,
 	postition: '',
+	shift: '',
 };
 
 const AddAssociate = () => {};
+
+export default AddAssociate;

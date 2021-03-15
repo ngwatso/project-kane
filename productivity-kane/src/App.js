@@ -1,10 +1,10 @@
 import './App.css';
-import Attendance from './components/Attendance';
+import AttendanceForm from './components/AttendanceForm';
 
 function App() {
 	return (
 		<div className="App">
-			<Attendance />
+			<AttendanceForm />
 		</div>
 	);
 }
